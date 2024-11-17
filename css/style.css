@@ -261,6 +261,7 @@ footer {
 }
 
 .enemad {
+  width: max-content;
   margin: 2rem auto;
 }
 
